@@ -1,0 +1,7 @@
+[package]
+name = "chordr"
+version = "0.1.0"
+authors = ["Sebastian <vogt999@gmail.com>"]
+
+[dependencies]
+rand = "0.6.5"
